@@ -35,7 +35,7 @@ const Cards = () => {
         </div>
       </div>
 
-      <div className="px-6 pt-4 pb-6 flex justify-between">
+      <div className="px-6 pt-4 pb-6 gap-2 flex justify-between max-sm:flex-col">
         <button className="border border-[#AE8625] py-2 px-6 rounded-lg text-[#AE8625] font-semibold hover:bg-[#AE8625] hover:text-white">
           View More
         </button>
