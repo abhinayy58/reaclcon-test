@@ -6,31 +6,31 @@ const Swiper = () => {
     const swiperImage = [
         {
             id:1,
-            src:"/public/club-1.svg"
+            src:"/club-1.svg"
         },
         {
             id:2,
-            src:"/public/club-2.svg"
+            src:"/club-2.svg"
         },
         {
             id:3,
-            src:"/public/club-3.svg"
+            src:"/club-3.svg"
         },
         {
             id:4,
-            src:"/public/club-4.svg"
+            src:"/club-4.svg"
         },
         {
             id:5,
-            src:"/public/club-5.svg"
+            src:"/club-5.svg"
         },
         {
             id:6,
-            src:"/public/club-6.svg"
+            src:"/club-6.svg"
         },
         {
             id:7,
-            src:"/public/club-7.svg"
+            src:"/club-7.svg"
         }
     ]
   return (
